@@ -12,14 +12,13 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">messages</Link></h2>
-          <Hello />
+          <h2 data-testid="heading"><Hello /></h2>
           <p>
-            Just hopping on the bandwagon and making myself a personal website.
+            My personal website. Duh.
           </p>
         </div>
       </header>
-      <p> Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
