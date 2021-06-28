@@ -23,7 +23,7 @@ const SideBar = () => (
         I am a rising junior at <a href="https://www.powayusd.com/en-US/Schools/HS/DNHS/Home">Del Norte High School </a>
         and student researcher at <a href="https://arthena.com">the San Diego Supercomputer Center</a>
         . Organizations I lead include:
-        <a href="https://www.team3749.org/"> Team Optix 3749</a>
+        <a href="https://www.team3749.org/">    Team Optix 3749</a>
         , <a href="https://cyberaegis.tech/">CyberAegis</a>
         , <a href="https://etfsd.org/">Elevate the Future</a>
         , <a href="https://www.lightthewayproject.org/">Light the Way Project</a>
@@ -31,7 +31,7 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">More About Me</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
