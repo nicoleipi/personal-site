@@ -60,12 +60,12 @@ const skills = [
   {
     title: 'Ubuntu (Linux)',
     competency: 5,
-    category: ['System Administration, Linux Security'],
+    category: ['System Administration', 'Linux Security'],
   },
   {
     title: 'Debian (Linux)',
     competency: 4,
-    category: ['System Administration'],
+    category: ['System Administration', 'Linux Security'],
   },
   {
     title: 'Windows Systems',
@@ -160,16 +160,6 @@ const skills = [
   {
     title: 'Samba',
     competency: 4,
-    category: ['Linux Security'],
-  },
-  {
-    title: 'PostgreSQL',
-    competency: 2,
-    category: ['Linux Security'],
-  },
-  {
-    title: 'PostgreSQL',
-    competency: 2,
     category: ['Linux Security'],
   },
   {
