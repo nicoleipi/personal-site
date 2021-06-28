@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://nicoleipi.github.io/personal-website/",
+  "homepage": "https://nicoleipi.github.io/personal-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicoleipi/personal-website.git"
+    "url": "https://github.com/nicoleipi/personal-site.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
