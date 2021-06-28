@@ -4,113 +4,13 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'Node.JS',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Languages'],
   },
   {
-    title: 'React',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Bash',
-    competency: 2,
+    title: 'Java',
+    competency: 5,
     category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Flask',
-    competency: 2,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'Git/Mercurial',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Kubernetes',
-    competency: 2,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'Google Cloud Compute',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'Numpy',
-    competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Typescript',
-    competency: 2,
-    category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
@@ -123,74 +23,179 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
-    title: 'C++',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Julia',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Data Visualization',
+    title: 'Jupyter',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science', 'Python'],
   },
   {
-    title: 'GraphQL',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
+    title: 'Bash',
+    competency: 4,
+    category: ['Tools', 'Languages'],
   },
   {
-    title: 'Pandas',
+    title: 'Batch',
+    competency: 3,
+    category: ['Tools', 'Languages'],
+  },
+  {
+    title: 'Autodesk Inventor',
+    competency: 4,
+    category: ['Design'],
+  },
+  {
+    title: 'Autodesk Sketchbook',
     competency: 5,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Design'],
   },
   {
-    title: 'Matplotlib',
+    title: 'Blender',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Design'],
   },
   {
-    title: 'Scikit-Learn',
+    title: 'Adobe Photoshop',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Design'],
   },
   {
-    title: 'Hadoop',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'Ubuntu (Linux)',
+    competency: 5,
+    category: ['System Administration, Linux Security'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'Debian (Linux)',
+    competency: 4,
+    category: ['System Administration'],
   },
   {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
-    title: 'Mypy',
+    title: 'Windows Systems',
     competency: 3,
-    category: ['Python'],
+    category: ['System Administration'],
   },
   {
-    title: 'Pylint',
+    title: 'Computer Networks (on Cisco PacketTracer)',
+    competency: 3,
+    category: ['System Administration'],
+  },
+  {
+    title: 'OpenSSH',
+    competency: 5,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'AIDE',
+    competency: 3,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Apache2',
     competency: 4,
-    category: ['Data Engineering', 'Python'],
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Apparmor',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'AuditD',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Fail2Ban',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Firefox',
+    competency: 5,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'GDM',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Grub',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'IPTable',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'LightDM',
+    competency: 5,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'MySQL',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Nginx',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'PostgreSQL',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'ProFTPd',
+    competency: 3,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Pure-FTPd',
+    competency: 3,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Samba',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'PostgreSQL',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'PostgreSQL',
+    competency: 2,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Kernel Security',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'OS Security',
+    competency: 4,
+    category: ['Linux Security'],
+  },
+  {
+    title: 'Mandarin',
+    competency: 5,
+    category: ['Languages'],
+  },
+  {
+    title: 'Latin',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
+    title: 'Artistic Swimming',
+    competency: 5,
+    category: ['Athletics'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
