@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Gallery/Cell';
-import data from '../data/Gallery';
+import data from '../data/gallery';
 
 const Gallery = () => (
   <Main
@@ -15,7 +15,7 @@ const Gallery = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/gallery">Gallery</Link></h2>
-          <p>Pictures of the things I love and the people I love working with!</p>
+          <p>Pictures of the things I love and the people I love working with</p>
         </div>
       </header>
       {data.map((project) => (
