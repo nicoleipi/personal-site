@@ -8,7 +8,6 @@ import Experience from '../components/Resume/Experience';
 import Awards from '../components/Resume/Awards';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
-import References from '../components/Resume/References';
 
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
@@ -22,7 +21,6 @@ const sections = [
   'Honors/Awards',
   'Skills',
   'Courses',
-  'References',
 ];
 
 const Resume = () => (
@@ -34,6 +32,7 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <p>My full resume is available upon request.</p>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
@@ -48,7 +47,6 @@ const Resume = () => (
       <Awards data={awards} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
-      <References />
 
     </article>
   </Main>
