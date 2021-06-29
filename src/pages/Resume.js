@@ -18,7 +18,7 @@ import { skills, categories } from '../data/resume/skills';
 
 const sections = [
   'Education',
-  'Experience',
+  'Organizations',
   'Honors/Awards',
   'Skills',
   'Courses',

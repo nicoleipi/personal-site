@@ -29,6 +29,16 @@ const data = [
     label: 'Current city',
     value: 'San Diego, CA',
   },
+  {
+    key: 'elbow',
+    label: '# of times I\'ve scraped my right elbow',
+    value: '5',
+  },
+  {
+    key: 'book',
+    label: 'Favorite book',
+    value: 'Beloved by Toni Morrison',
+  },
 ];
 
 export default data;
