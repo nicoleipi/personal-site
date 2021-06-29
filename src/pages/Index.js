@@ -14,7 +14,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Hello /></h2>
           <p>
-            My personal website. Duh.
+            Welcome
           </p>
         </div>
       </header>

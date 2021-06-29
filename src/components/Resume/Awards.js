@@ -9,10 +9,10 @@ const Awards = ({ data }) => (
     <div className="title">
       <h3>Honors/Awards</h3>
     </div>
-    {data.map((job) => (
+    {data.map((honor) => (
       <Honor
-        data={job}
-        key={job.company}
+        data={honor}
+        key={honor.company}
       />
     ))}
   </div>

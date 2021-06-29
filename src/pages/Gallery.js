@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
-import data from '../data/Gallery';
+import data from '../data/gallery';
 
 const Gallery = () => (
   <Main

@@ -49,8 +49,8 @@
 		@include vendor('appearance', 'none');
 		background: _palette(border-bg);
 		border: none;
-		border: solid 1px _palette(border);
-		border-radius: 0;
+		border: solid 40px _palette(border);
+		border-radius: 10px;
 		color: inherit;
 		display: block;
 		outline: 0;

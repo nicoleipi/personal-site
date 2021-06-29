@@ -11,12 +11,13 @@
 
 .skillbutton {
 	box-shadow: none;
-	outline: none
+	outline: none;
 }
 
 .skillbutton-active {
 	box-shadow: inset 0 0 0 1px _palette(accent);
 	color: _palette(accent) !important;
+	-moz-border-radius:10px;
 }
 
 .skillbar {
