@@ -5,7 +5,7 @@ I am student researcher and leader looking constantly on the lookout for new opp
 
 # Some history
 
-- When I was 7, my dad took me to his workplace, a small officespace in downtown San Diego. The desktop computers were large, loud and mysterious. Ever since then, I've been learning the language of computers, trying to understand them, and utilizing them as a aid to my creativity.
+When I was 7, my dad took me to his workplace, a small officespace in downtown San Diego. The desktop computers were large, loud and mysterious. Ever since then, I've been learning the language of computers, trying to understand them, and utilizing them as a aid to my creativity.
 
 # I like
 
@@ -18,7 +18,6 @@ I am student researcher and leader looking constantly on the lookout for new opp
 - Sewing
 - Green
 - Watercolors
-- Postcards
 - [Good design ;)](/)
 
 # Fun facts
