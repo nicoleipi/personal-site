@@ -1,47 +1,124 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    image: '/images/projects/zoom-group.png',
+    date: '06-24-2021',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'My first Goetz lab research group meeting!',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    image: '/images/projects/vp of strat unite.jpg',
+    date: '05-24-2021',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Smiling (although you can\'t see) with the previous VP of Strategy of my robotics team!',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    image: '/images/projects/rapid rescue.png',
+    date: '03-01-2021',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Lead a team of 20 in the creation of this FRC Competition Game Design!',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    image: '/images/projects/2021 robot.png',
+    date: '03-01-2021',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'CAD Model of Team Optix 3749\'s 2020-2021 Competition Robot ',
+  },
+  {
+    image: '/images/projects/ncwit.png',
+    date: '03-01-2020',
+    desc:
+      'The NCWIT Aspirations in Computing Awardees from DNHS #girlpower',
+  },
+  {
+    image: '/images/projects/women in stem.jpg',
+    date: '03-01-2021',
+    desc:
+      'With the women on my FRC team on International Women\'s Day',
+  },
+  {
+    image: '/images/projects/albert.jpg',
+    date: '03-01-2021',
+    desc:
+      'Posing with team mascot Albert the Alien at my first FRC competition!',
+  },
+  {
+    image: '/images/projects/2020 frc.jpg',
+    date: '03-01-2021',
+    desc:
+      'Last minute tweaks to our robot before our first FRC match of the season!',
+  },
+  {
+    image: '/images/projects/elevator.jpg',
+    date: '01-01-2021',
+    desc:
+      'The finished elevator mechanism for our 2020 FRC season robot',
+  },
+  {
+    image: '/images/projects/2019 cyber.jpg',
+    date: '01-01-2020',
+    desc:
+      'Securing a Debian 8 virtual machine at the AFA CyberPatriot XII Semifinals',
+  },
+  {
+    image: '/images/projects/junior olympics.jpg',
+    date: '06-01-2019',
+    desc:
+      'My first Junior Olympics in Buffalo, New York!',
+  },
+  {
+    image: '/images/projects/level 10.jpg',
+    date: '03-01-2018',
+    desc:
+      'My brother and I in the waiting room before my Certificate of Merit Level 10 Examination for Piano',
+  },
+  {
+    image: '/images/projects/piano recital.jpg',
+    date: '02-01-2018',
+    desc:
+      'My last piano recital',
+  },
+  {
+    image: '/images/projects/2018 fll.jpg',
+    date: '12-01-2018',
+    desc:
+      'Performing last-minute configurations on the autonomously run robot at FIRST LEGO League regionals',
+  },
+  {
+    image: '/images/projects/2017 fll.jpg',
+    date: '11-01-2017',
+    desc:
+      'Posing with my team after winning 2nd Place Core Values at FIRST LEGO League regionals',
+  },
+  {
+    image: '/images/projects/2016 fll.jpg',
+    date: '12-01-2016',
+    desc:
+      'High-fiving judges at the end of FIRST LEGO Leauge qualifiers',
+  },
+  {
+    image: '/images/projects/first synchro competition.jpg',
+    date: '07-01-2016',
+    desc:
+      'Flexing my 5th place ribbon at my first synchronized swimming competition!',
+  },
+  {
+    image: '/images/projects/2015 fll.jpg',
+    date: '12-01-2015',
+    desc:
+      'Posing with my team during FIRST LEGO League qualifiers',
+  },
+  {
+    image: '/images/projects/2014 fll.jpg',
+    date: '12-01-2014',
+    desc:
+      'Taking a breather with my team during my first FIRST Lego League competition!',
+  },
+  {
+    image: '/images/projects/programming.jpg',
+    date: '11-01-2014',
+    desc:
+      'My first time programming on my dad\'s work laptop',
   },
 ];
 
