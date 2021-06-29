@@ -16,7 +16,7 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Get in touch! You can email me at: <a href="mailto:pinicolei@gmail.com">pinicolei@gmail.com</a></p>
+        <p>Let&apos;s get in touch! You can email me at: <a href="mailto:pinicolei@gmail.com">pinicolei@gmail.com</a></p>
       </div>
       <ContactIcons />
     </article>

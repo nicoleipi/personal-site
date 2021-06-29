@@ -4,10 +4,10 @@ import PropTypes from 'prop-types';
 import Job from './Experience/Job';
 
 const Experience = ({ data }) => (
-  <div className="experience">
-    <div className="link-to" id="experience" />
+  <div className="organizations">
+    <div className="link-to" id="organizations" />
     <div className="title">
-      <h3>Organizations/Teams</h3>
+      <h3>Organizations/Teams </h3>
     </div>
     {data.map((job) => (
       <Job

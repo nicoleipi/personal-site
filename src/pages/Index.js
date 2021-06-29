@@ -13,16 +13,16 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Hello /></h2>
-          <p>
-            Welcome
-          </p>
+          <p3>
+            Welcome!
+          </p3>
         </div>
       </header>
       <p> Feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/gallery">gallery</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        view <Link to="/stats">statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me!
       </p>
     </article>

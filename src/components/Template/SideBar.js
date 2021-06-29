@@ -12,14 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Nicole Pi</h2>
-        <p><a href="mailto:pinicolei@gmail.com">pinicolei@gmail.com</a></p>
+        <h6>Nicole Pi</h6>
+        <p2><a href="mailto:pinicolei@gmail.com">pinicolei@gmail.com</a></p2>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Nicole. I like creating things.
+      <sidebar-body>Hi, I&apos;m Nicole. I like creating things.
         I am a rising junior at <a href="https://www.powayusd.com/en-US/Schools/HS/DNHS/Home">Del Norte High School </a>
         and student researcher at <a href="https://www.sdsc.edu/">the San Diego Supercomputer Center</a>
         . Organizations I lead include:
@@ -28,12 +28,7 @@ const SideBar = () => (
         , <a href="https://etfsd.org/">Elevate the Future</a>
         , <a href="https://www.lightthewayproject.org/">Light the Way Project</a>
         , and <a href="https://www.epicedu.org/">Educational Pathways for Impoverished Children (EPIC)</a>.
-      </p>
-      <ul className="actions">
-        <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">More About Me</Link> : <Link to="/about" className="button">About Me</Link>}
-        </li>
-      </ul>
+      </sidebar-body>
     </section>
 
     <section id="footer">

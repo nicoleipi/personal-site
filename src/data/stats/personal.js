@@ -39,6 +39,11 @@ const data = [
     label: 'Favorite book',
     value: 'Beloved by Toni Morrison',
   },
+  {
+    label: 'Lines of Javascript powering this website',
+    value: '2115',
+    link: 'https://github.com/nicoleipi/personal-site',
+  },
 ];
 
 export default data;

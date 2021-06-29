@@ -15,7 +15,7 @@ const Gallery = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/gallery">Gallery</Link></h2>
-          <p>Pictures of the things I love and the people I love working with</p>
+          <p3>Pictures of the things I love and the people I love working with</p3>
         </div>
       </header>
       {data.map((project) => (

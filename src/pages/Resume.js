@@ -17,8 +17,8 @@ import { skills, categories } from '../data/resume/skills';
 
 const sections = [
   'Education',
-  'Organizations/Teams',
-  'Honors/Awards',
+  'Organizations',
+  'Awards',
   'Skills',
   'Courses',
 ];
@@ -32,7 +32,7 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
-          <p>My full resume is available upon request.</p>
+          <p3>My full resume is available upon request.</p3>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
