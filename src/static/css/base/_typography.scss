@@ -73,7 +73,6 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(fg-bold);
 		font-family: _font(family-heading);
 		font-weight: _font(weight-heading-bold);
 		letter-spacing: _font(kerning-heading);
@@ -88,23 +87,28 @@
 	}
 
 	h2 {
+		color: _palette(fg-bold-heading);
 		font-size: 1.1em;
 	}
 
 	h3 {
+		color: _palette(fg-bold-heading);
 		font-size: 1em;
 	}
 
 	h4 {
+		color: _palette(fg-other-bold);
 		font-size: 0.9em;
 		weight: 400
 	}
 
 	h5 {
+		color: _palette(fg-bold-heading);
 		font-size: 0.7em;
 	}
 
 	h6 {
+		color: _palette(fg-bold-heading);
 		font-size: 0.7em;
 	}
 

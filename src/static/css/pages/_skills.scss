@@ -47,8 +47,8 @@
 	position:absolute;
 	top:0;
 	left:0;
-	font-weight:bold;
-	font-size:13px;
+	font-weight:medium bold;
+	font-size:14px;
 	color:#fff;
 	background:#6adcfa;
 	-webkit-border-top-left-radius:3px;
@@ -61,7 +61,7 @@
 
 .skillbar-title span {
 	display:block;
-	background:rgba(0, 0, 0, 0.1);
+	background:rgba(0, 0, 0, 0);
 	padding:0 20px;
 	height:35px;
 	line-height:35px;
@@ -90,5 +90,5 @@
 	height:35px;
 	line-height:35px;
 	color:#444;
-	color:rgba(0, 0, 0, 0.4);
+	color:rgba(0, 0, 0, 0);
 }
