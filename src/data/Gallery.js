@@ -37,13 +37,13 @@ const data = [
       'With the women on my FRC team on International Women\'s Day',
   },
   {
-    image: '/images/gallery/albert.jpg',
+    image: '/images/gallery/albert.JPG',
     date: '03-01-2021',
     desc:
       'Posing with team mascot Albert the Alien at my first FRC competition!',
   },
   {
-    image: '/images/gallery/2020 frc.jpg',
+    image: '/images/gallery/2020 frc.JPG',
     date: '03-01-2021',
     desc:
       'Last minute tweaks to our robot before our first FRC match of the season!',
@@ -55,7 +55,7 @@ const data = [
       'The finished elevator mechanism for our 2020 FRC season robot',
   },
   {
-    image: '/images/gallery/2019 cyber.jpg',
+    image: '/images/gallery/2019 cyber.JPG',
     date: '01-01-2020',
     desc:
       'Securing a Debian 8 virtual machine at the AFA CyberPatriot XII Semifinals',
@@ -79,13 +79,13 @@ const data = [
       'My last piano recital',
   },
   {
-    image: '/images/gallery/2018 fll.jpg',
+    image: '/images/gallery/2018 fll.JPG',
     date: '12-01-2018',
     desc:
       'Performing last-minute configurations on the autonomously run robot at FIRST LEGO League regionals',
   },
   {
-    image: '/images/gallery/2017 fll.jpg',
+    image: '/images/gallery/2017 fll.JPG',
     date: '11-01-2017',
     desc:
       'Posing with my team after winning 2nd Place Core Values at FIRST LEGO League regionals',
@@ -109,13 +109,13 @@ const data = [
       'Posing with my team during FIRST LEGO League qualifiers',
   },
   {
-    image: '/images/gallery/2014 fll.jpg',
+    image: '/images/gallery/2014 fll.JPG',
     date: '12-01-2014',
     desc:
       'Taking a breather with my team during my first FIRST Lego League competition!',
   },
   {
-    image: '/images/gallery/programming.jpg',
+    image: '/images/gallery/programming.JPG',
     date: '11-01-2014',
     desc:
       'My first time programming on my dad\'s work laptop',
