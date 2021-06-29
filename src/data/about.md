@@ -37,4 +37,4 @@ I am student researcher and leader looking constantly on the lookout for new opp
 - [Kevin He](https://www.hekevinb.com/)
 - [Raadwan Masum](https://raadwan.com/)
 
-If we are friends and you feel like you belong on this list, you're probably right. Pester me and I'll add you.
+If we are friends and you feel like you belong on this list, you're probably right. Remind me and I'll add you.
