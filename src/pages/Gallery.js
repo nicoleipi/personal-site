@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Cell from '../components/Gallery/Cell';
-import data from '../data/gallery';
+import Cell from '../components/Projects/Cell';
+import data from '../data/Gallery';
 
 const Gallery = () => (
   <Main
