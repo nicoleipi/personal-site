@@ -40,6 +40,18 @@ const data = [
     value: 'Beloved by Toni Morrison',
   },
   {
+    key: 'mathematician',
+    label: 'Favorite mathmatician',
+    value: 'Marian Pour-El',
+    link: 'https://cse.umn.edu/math/marian-pour-el',
+  },
+  {
+    label: 'Site last updated at',
+    key: 'pushed_at',
+    link: 'https://github.com/nicoleipi/personal-site/commits',
+    format: (x) => dayjs(x).format('MMMM DD, YYYY'),
+  },
+  {
     label: 'Lines of Javascript powering this website',
     value: '2115',
     link: 'https://github.com/nicoleipi/personal-site',

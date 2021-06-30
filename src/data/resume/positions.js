@@ -43,6 +43,12 @@ const positions = [
     company: 'DNHS Speech and Debate',
     link: 'https://www.instagram.com/delnortespeechanddebate/',
   },
+  {
+    company: 'DNHS Anti-Racism/Equity Taskforce',
+  },
+  {
+    company: 'DNHS LINK Crew',
+  },
 ];
 
 export default positions;
