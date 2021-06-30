@@ -85,7 +85,7 @@ const data = [
       'Performing last-minute configurations on the autonomously run robot at FIRST LEGO League regionals',
   },
   {
-    image: '/images/gallery/2017 fll.JPG',
+    image: '/images/gallery/2017 fll.jpg',
     date: '11-01-2017',
     desc:
       'Posing with my team after winning 2nd Place Core Values at FIRST LEGO League regionals',
