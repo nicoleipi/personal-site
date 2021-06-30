@@ -35,5 +35,6 @@ When I was 7, my dad took me to his workplace, a small officespace in downtown S
 
 - [Kevin He](https://www.hekevinb.com/)
 - [Raadwan Masum](https://raadwan.com/)
+- [Aadit Gupta](https://aadit.dev)
 
 If we are friends and you feel like you belong on this list, you're probably right. Remind me and I'll add you.
