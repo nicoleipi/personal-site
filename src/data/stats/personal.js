@@ -42,15 +42,14 @@ const data = [
   },
   {
     key: 'mathematician',
-    label: 'Favorite mathmatician',
+    label: 'Favorite mathematician',
     value: 'Marian Pour-El',
     link: 'https://cse.umn.edu/math/marian-pour-el',
   },
   {
     label: 'Site last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/nicoleipi/personal-site/commits',
-    format: (x) => dayjs(x).format('MMMM DD, YYYY'),
+    value: '06-29-2021',
   },
   {
     label: 'Lines of Javascript powering this website',
