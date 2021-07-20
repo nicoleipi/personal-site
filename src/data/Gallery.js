@@ -61,6 +61,12 @@ const data = [
       'Securing a Debian 8 virtual machine at the AFA CyberPatriot XII Semifinals',
   },
   {
+    image: '/images/gallery/sad.jpg',
+    date: '10-01-2019',
+    desc:
+      'My first speech and debate tournament with my partner Shriya!',
+  },
+  {
     image: '/images/gallery/junior olympics.jpg',
     date: '06-01-2019',
     desc:

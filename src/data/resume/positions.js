@@ -12,6 +12,10 @@ const positions = [
     link: 'https://www.team3749.org/',
   },
   {
+    company: 'Zipline Theory',
+    link: 'https://ziplinetheory.com',
+  },  
+  {
     company: 'CyberAegis',
     link: 'https://cyberaegis.tech',
   },
@@ -22,10 +26,6 @@ const positions = [
   {
     company: 'Light The Way Project 501(c)(3)',
     link: 'https://www.lightthewayproject.org/',
-  },
-  {
-    company: 'San Diego Elevate the Future 501(c)(3)',
-    link: 'https://etfsd.org/',
   },
   {
     company: 'CASH Club Corp 501(c)(3)',
