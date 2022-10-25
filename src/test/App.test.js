@@ -13,7 +13,7 @@ import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Gallery from '../pages/Gallery';
-import Resume from '../pages/Resume';
+//import Resume from '../pages/Resume';
 import Stats from '../pages/Stats';
 
 const pages = [
@@ -42,11 +42,11 @@ const pages = [
     heading: 'Contact',
     component: Contact,
   },
-  {
-    route: '/resume',
-    heading: 'Resume',
-    component: Resume,
-  },
+//{
+//route: '/resume',
+//heading: 'Resume',
+//component: Resume,
+ // },
 ];
 
 // Adds router to Page context and allows us to navigate to the
