@@ -13,7 +13,7 @@ const Stats = () => (
     <article className="post" id="stats">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/stats">Stats</Link></h2>
+          <h2 data-testid="heading"><Link to="/stats">Quick Facts</Link></h2>
         </div>
       </header>
       <Personal />
