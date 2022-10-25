@@ -34,7 +34,7 @@ const pages = [
   },
   {
     route: '/stats',
-    heading: 'Stats',
+    heading: 'Quick Facts',
     component: Stats,
   },
   {
