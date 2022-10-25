@@ -17,7 +17,7 @@ const routes = [
     path: '/gallery',
   },
   {
-    label: 'Stats',
+    label: 'Quick Facts',
     path: '/stats',
   },
   {

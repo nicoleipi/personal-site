@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <sidebar-body>Hi, I&apos;m Nicole. I like creating things.
-        I am a rising junior at <a href="https://www.powayusd.com/en-US/Schools/HS/DNHS/Home">Del Norte High School </a>
+      <sidebar-body>Hi, I&apos;m Nicole! I like creating things.
+        I am a senior at <a href="https://www.powayusd.com/en-US/Schools/HS/DNHS/Home">Del Norte High School </a>
         and student researcher at <a href="https://www.sdsc.edu/">the San Diego Supercomputer Center</a>
         . Organizations I lead include:
         <a href="https://www.team3749.org/">    Team Optix 3749</a>
@@ -33,7 +33,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Nicole Pi 2021</p>
+      <p className="copyright">&copy; Nicole Pi 2022</p>
     </section>
   </section>
 );
