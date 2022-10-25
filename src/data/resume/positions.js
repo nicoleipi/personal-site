@@ -14,7 +14,7 @@ const positions = [
   {
     company: 'Zipline Theory',
     link: 'https://ziplinetheory.com',
-  },  
+  },
   {
     company: 'CyberAegis',
     link: 'https://cyberaegis.tech',

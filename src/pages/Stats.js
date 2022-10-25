@@ -7,8 +7,8 @@ import Personal from '../components/Stats/Personal';
 
 const Stats = () => (
   <Main
-    title="Stats"
-    description="Some statistics about Nicole Pi"
+    title="Quick Facts"
+    description="Some quick facts about me! (and this site)"
   >
     <article className="post" id="stats">
       <header>
