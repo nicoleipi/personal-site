@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <sidebar-body>Hi, I&apos;m Nicole! I like creating things.
+      <sidebar-body>Hi, I&apos;m Edwin! I like creating things.
         I am a senior at <a href="https://www.powayusd.com/en-US/Schools/HS/DNHS/Home">Del Norte High School </a>
         and student researcher at <a href="https://www.sdsc.edu/">the San Diego Supercomputer Center</a>
         . Organizations I lead include:
